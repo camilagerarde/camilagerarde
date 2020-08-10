@@ -1,4 +1,4 @@
-### Olá! <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='60"'>
+## Olá! <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='80"'>
 
 👩‍💻 Atualmente estou estudando front-end na Laboratoria <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 🤯 Estou trabalhando em um projeto com JavaScript, CSS, React e Firebase, com a querida [Sofia Simas](https://github.com/SofiaSimas)  
