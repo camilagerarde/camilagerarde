@@ -1,7 +1,7 @@
 # Olá! <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='80"'>
 
 👩‍💻 Atualmente estou estudando front-end na [Laboratória](https://github.com/Laboratoria) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-🤯 Estou trabalhando em um projeto com JavaScript, CSS, React e Firebase, com a querida [Sofia Simas](https://github.com/SofiaSimas)  
+🤯 Estou trabalhando em uma API com Node.js, SQL, Docker, Express e Sequelize.   
 💕 Gosto de: 🏡👫📚🎬🎮🎨📷🛣🚀🧝🧛‍♂️🦸‍♀️🛸🏰 
 
 
