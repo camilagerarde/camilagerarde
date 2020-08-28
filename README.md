@@ -1,7 +1,6 @@
 # Olá! <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='80"'>
 
 👩‍💻 Atualmente estou estudando front-end na [Laboratória](https://github.com/Laboratoria) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-🤯 Estou trabalhando em uma API com Node.js, PostgreSQL, Docker, Express e Sequelize.   
 💕 Gosto de: 🏡👫📚🎬🎮🎨📷🛣🚀🧝🧛‍♂️🦸‍♀️🛸🏰 
 
 
