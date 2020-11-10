@@ -1,7 +1,7 @@
 # Olá! <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='80"'>
 
 👩‍💻 Desenvolvedora front-end pela [Laboratória](https://github.com/Laboratoria) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-🤯 Estudando Vue.js, Typescript e .net. 
+🤯 Estudando Vue.js, Typescript e .net.   
 💕 Gosto de: 🏡👫📚🎬🎮🎨📷🛣🚀🧝🧛‍♂️🦸‍♀️🛸🏰  
 
 <p>
