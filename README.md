@@ -22,6 +22,7 @@
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70">  
 
 ![camilagerarde's github stats](https://github-readme-stats.vercel.app/api?username=camilagerarde&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true")  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilagerarde&layout=compact)](https://github.com/camilagerarde/)
 
 [![Linkedin: Camila Cunha](https://img.shields.io/badge/-camilagerarde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilagerarde/)](https://www.linkedin.com/in/camilagerarde/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c5392a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:millagerarde@gmail.com)](mailto:millagerarde@gmail.com)
@@ -31,10 +32,13 @@
 ⭐️ From [@camila](https://github.com/camilagerarde)
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
+
+
+
+
 <!--
 ![camilagerarde's github stats](https://github-readme-stats.vercel.app/api?username=camilagerarde&show_icons=true&theme=dracula)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=camilagerarde&theme=tokyonight">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilagerarde&layout=compact)](https://github.com/camilagerarde/)
 <p>
   <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>
   <img alt="Sass" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=flat-square&logo=SASS&logoColor=white"/>
