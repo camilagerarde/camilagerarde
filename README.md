@@ -19,7 +19,6 @@
   <img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=flat-square&logo=typescript&logoColor=white" />
 </p> 
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70">  
