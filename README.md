@@ -1,8 +1,9 @@
-# Olá! <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='80"'>
+# Olá!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70">
+<!--  img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='80"'> -->
 
 👩‍💻 Desenvolvedora front-end pela [Laboratória](https://github.com/Laboratoria) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+🎓 Cursando Análise e Desenvolvimento de Sistemas  
 🤯 Estudando .net.   
-💕 Gosto de: 🏡👫📚🎬🎮🎨📷🛣🚀🧝🧛‍♂️🦸‍♀️🛸🏰  
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=white" />
@@ -21,8 +22,6 @@
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white" />
 </p> 
-
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70">  
 
 ![camilagerarde's github stats](https://github-readme-stats.vercel.app/api?username=camilagerarde&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true")  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilagerarde&layout=compact)](https://github.com/camilagerarde/)
