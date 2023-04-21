@@ -1,9 +1,8 @@
 # Olá!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70">
 <!--  img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='80"'> -->
 
-👩‍💻 Desenvolvedora front-end pela [Laboratória](https://github.com/Laboratoria) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+👩‍💻 Desenvolvedora Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 🎓 Cursando Análise e Desenvolvimento de Sistemas  
-🤯 Estudando .net.   
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=white" />
