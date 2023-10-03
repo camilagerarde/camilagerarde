@@ -22,7 +22,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white" />
 </p> 
 
-![camilagerarde's github stats](https://github-readme-stats.vercel.app/api?username=camilagerarde&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true")  
+<!-- ![camilagerarde's github stats](https://github-readme-stats.vercel.app/api?username=camilagerarde&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true")  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilagerarde&layout=compact)](https://github.com/camilagerarde/)
 
 [![Linkedin: Camila Cunha](https://img.shields.io/badge/-camilagerarde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilagerarde/)](https://www.linkedin.com/in/camilagerarde/)
