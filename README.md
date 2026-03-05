@@ -2,7 +2,7 @@
 <!--  img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='80"'> -->
 
 👩‍💻 Desenvolvedora Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-🎓 Cursando Análise e Desenvolvimento de Sistemas 4/5  
+🎓 Análise e Desenvolvimento de Sistemas 
 
 <p>
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-00599C?style=flat-square&logo=csharp&logoColor=white" />
